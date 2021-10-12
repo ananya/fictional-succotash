@@ -1,3 +1,3 @@
-# fictional-succotash
+# succotash
 
 Ananya Agrawal
