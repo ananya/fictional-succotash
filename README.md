@@ -1,3 +1,2 @@
-# fictional-succotash
-
-Ananya Agrawal
+# fictional-succota
+Shubham Bhardwaj
