@@ -1,5 +1,4 @@
 import 'dart:io'; // Libraies for the program
-import 'dart:math';
 
 List<List<String>> board =
     List(); // Creates a chess board as an empty array because the board length user defined
